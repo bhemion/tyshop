@@ -1,0 +1,152 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: white;
+    align-items: center;
+
+
+
+
+
+}
+
+.nav-btn-icon {
+    height: 2.5em;
+    width: 2.5em;
+
+
+}
+
+.nav {
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: large;
+    color: white;
+    width: 100%;
+}
+
+.all-prod-dd {
+    display: flex;
+    align-items: center;
+
+}
+
+.sale-arrow-btn {
+    height: 3em;
+    width: 2em;
+
+
+}
+.sale-arrow-img {
+    height: 100%;
+    width: 100%;
+}
+
+#arrow-rotate {
+    transform: rotateY(180deg);
+
+
+}
+
+.search-icon {
+    height: 100%;
+    width : 100%;
+    margin: auto;
+
+
+
+}
+
+
+.drop-down-triangle {
+    height: 1em;
+    width: 1em;
+    margin: auto;
+    display: block;
+    margin-left: 10px;
+
+
+
+
+}
+
+
+
+
+
+
+#beanie-heart {
+    height: 110px;
+    width: 110px;
+}
+
+#stuff-for-sale {
+    display: flex;
+    text-align: justify;
+    overflow: hidden;
+    white-space: nowrap;
+    justify-content:space-around;
+    width: 80%;
+
+}
+
+.nav-btn-icon {
+    height: 1.5em;
+    width: 1.5em;
+    font-size: large;
+    color: white;
+
+}
+
+.font-color {
+    color: white;
+    background: none;
+    border: none;
+}
+
+.lightened-text {
+    border-radius: 25px;
+    width: 20vw;
+    height: 2.5vw;
+
+}
+
+::placeholder {
+    color: lightgrey;
+
+}
+
+
+
+.sale-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#pic-change {
+    height: 5em;
+    width: 5em;
+    border-radius: 10px;
+    background: aqua;
+}
+
+.main {
+    
+}
